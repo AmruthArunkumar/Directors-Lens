@@ -13,7 +13,7 @@ import numpy as np
 import os
 import sys
 import glob
-import datetime
+from datetime import daytime
 
 # Handle MediaPipe import gracefully
 try:
